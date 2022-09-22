@@ -32,3 +32,4 @@ const fetchMovieAvailability = async (movieName) => {
 }
 
 export { fetchMovieList, fetchMovieAvailability }
+// asim
