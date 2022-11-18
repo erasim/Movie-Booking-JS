@@ -27,7 +27,7 @@ main{
     width: 100%;
 }
 .movie-holder{
-
+     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 1rem;
